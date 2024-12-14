@@ -1,6 +1,6 @@
 # Hi there 👋 I'm QuangDat
 
-Dedicated to being a Java Developer.
+**Dedicated to being a Java Developer.**
 
 
 # Tool and Language favorites
